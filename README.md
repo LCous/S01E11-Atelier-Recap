@@ -7,7 +7,7 @@
 *Développeur web junior, en formation "Développement Web et Accessibilité"*
 
 
-[Accueil](Accueil) - [Projets](Projets) - [CV](CV) - [Contact](Contact)
+[Accueil](Accueil) - [Projets](projets.md) - [CV](CV) - [Contact](Contact)
 
 ## Présentation
 Lorem markdown
